@@ -1,0 +1,48 @@
+Contract |Status Header|Status Line|Item          |Description...   |Buy-from |Supplier Name   |  Ref. A and B |Typ|CUR|Buyer Name  |Expiry Dt |WRH Line|WRH HDR|MinOrd Qty.|FixOrd Qty.|EOQ |Qty. Multpl|Safety Time|Supply Time|Item Safety|Transport Time|Lead Time|Release Type|Issue Ptrn.|Comm. Chanl|Seg Set|Frez Time|Frz Pd.|Shipment Delivery|Recent Price
+000930118|Termin|Termin|0120-00013    |3/8 PIPE|BP0010220|All Tools|0120-0001|PP1|USD|The Buyer|12-31-2037|WH1  |   |   100|     0| 100|     1|   5.0|   0.0|     0|      0|   5|Material Re|02   |Post |10F|  0 |  0|Receipt |   0.000
+330000067|Active|Active|0120-00013    |3/8 PIPE|BP0010200|Misc Tools|               |PP1|USD|The Buyer|12-31-2037|WH1  |WH1 |     1|     1|   1|     1|  10.0|   0.0|     0|      2|  12|Material Re|02   |Post |10F|  0 |  0|Receipt |   0.246
+000930089|Termin|Termin|0120-00032    |3/4 PIPE|BP0010220|All Tools|0120-0002|PP1|USD|The Buyer|12-31-2037|WH1  |   |   100|     0| 100|     1|   5.0|   0.0|     0|      0|   5|Material Re|02   |Post |10F|  0 |  0|Receipt |   0.000
+330000068|Active|Active|0120-00032    |3/4 PIPE|BP0010200|Misc Tools|               |PP1|USD|The Buyer|12-31-2037|WH1  |WH1 |     1|     1|  10|     1|  10.0|   0.0|     0|      2|  12|Material Re|02   |Post |10F|  0 |  0|Receipt |   0.234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
