@@ -20,3 +20,7 @@ It is an easy way to get your own good looking reports with output comming direc
 To check Powershell version open a PowerShell console and run: $PSVersionTable.PSVersion
 
 Full Document: https://github.com/LaranIkal/OpenReportingSystem/blob/master/OpenReportingSystem/Docs/OpenReportingSystem.pdf
+
+Here the link to the project on BaaN Board: http://www.baanboard.com/node/5036/
+
+
